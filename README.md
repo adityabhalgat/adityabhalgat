@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing **Computer Science** at [Your University Name].
-- 💻 I’m focused on **Web Development**, **Machine Learning**, and **Cloud Technologies**.
+  - 🎓 Currently pursuing **Computer Science** at Pune Institute of Computer Technlogy.
+- 💻 I’m focused on **Web Development**, **Machine Learning**.
 - 🌱 I’m currently learning **React.js**, **Node.js**, and **Deep Learning**.
 - 🛠️ I’m open to contributing to **open-source projects** and collaborating on exciting ideas.
 - 🔭 I'm also working on **Personal Portfolio Builder**, **Telemedicine app frontend**, and other interesting side projects!
@@ -41,16 +41,16 @@ Here are a few of my recent projects:
 
 ## 🤝 Let's Connect
 
-- **LinkedIn**: [Aditya's LinkedIn](https://www.linkedin.com/in/aditya-profile/)
-- **Twitter**: [@aditya_handle](https://twitter.com/aditya_handle)
-- **Email**: [aditya@example.com](mailto:aditya@example.com)
-- **Personal Website**: [aditya.com](https://aditya.com)
+- **LinkedIn**: [Aditya's LinkedIn](https://www.linkedin.com/in/adityabhalgat/)
+- **Twitter**: [@adityabhalgat](https://twitter.com/adityabhalgat)
+- **Email**: [adityabhalgat81@gmail.com](mailto:adityabhalgat81@gmail.com)
+- **Leetcode**: [Aditya's Leetcode](https://aditya.com)
 
 ---
 
 ## 📝 Fun Facts
 
-- I love solving problems and coding challenges on platforms like **LeetCode** and **HackerRank**.
+- I love solving problems and coding challenges on platforms like **LeetCode**.
 - In my free time, I enjoy learning new technologies, reading tech blogs, and participating in hackathons.
 - I’m passionate about building scalable and efficient web applications and exploring the intersection of **AI** and **software development**.
 
