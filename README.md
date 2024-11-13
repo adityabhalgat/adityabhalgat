@@ -16,10 +16,10 @@ Welcome to my GitHub profile! I'm a passionate **Computer Science student** with
 
 Here are a few of my recent projects:
 
-- **[Project Name 1](https://github.com/your-username/project-name-1)** - A brief description of what the project does.
-- **[Project Name 2](https://github.com/your-username/project-name-2)** - A brief description of what the project does.
-- **[Project Name 3](https://github.com/your-username/project-name-3)** - A brief description of what the project does.
-- [More Projects](https://github.com/your-username?tab=repositories)
+- **[Department Project](https://github.com/adityabhalgat/Dept_proj)** 
+- **[Pulzion Main Website](https://github.com/PICT-ACM-Student-Chapter/pulzion24-ems-frontend)** 
+- **[House Prediction Model](https://github.com/adityabhalgat/house-prediction)** 
+- [More Projects]([https://github.com/your-username?tab=repositories](https://github.com/adityabhalgat?tab=repositories))
 
 ---
 
@@ -30,12 +30,6 @@ Here are a few of my recent projects:
 - **Database**: MongoDB, PostgreSQL
 - **Machine Learning**: TensorFlow, Keras, scikit-learn
 - **Tools & Technologies**: Git, Docker, AWS, VSCode
-
----
-
-## 📈 GitHub Stats
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
