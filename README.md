@@ -19,7 +19,7 @@ Here are a few of my recent projects:
 - **[Department Project](https://github.com/adityabhalgat/Dept_proj)** 
 - **[Pulzion Main Website](https://github.com/PICT-ACM-Student-Chapter/pulzion24-ems-frontend)** 
 - **[House Prediction Model](https://github.com/adityabhalgat/house-prediction)** 
-- **[More Projects]([https://github.com/your-username?tab=repositories](https://github.com/adityabhalgat?tab=repositories))**
+- **[More Projects](https://github.com/adityabhalgat?tab=repositories)**
 
 ---
 
